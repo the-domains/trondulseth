@@ -1,6 +1,6 @@
 name: TrondUlseth
 favicon: null
-layout_spectrum: 0.4734814101830125
+layout_spectrum: 0.87749
 typography_spectrum: 0.03207329614087939
 title: Trond Ulseth on the Grid
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#f5f5f5'
+    - '#4b100c'
+    - '#a58248'
+    - '#a82219'
+    - '#d3aa6c'
   brandStrength: 0.940937043633312
   lightness: 0.6817958622705191
   saturation: 0.6697244218084961
