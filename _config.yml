@@ -1,20 +1,4 @@
-name: TrondUlseth
-favicon: null
-layout_spectrum: 0.87749
 typography_spectrum: 0.03207329614087939
-title: Trond Ulseth on the Grid
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f5f5f5'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3125
   saturation: 0.6697244218084961
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.87749
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: TrondUlseth
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Trond Ulseth on the Grid
+description: Testing codeless waters on the web
 purpose: []
